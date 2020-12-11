@@ -1,5 +1,11 @@
 # Chrome Stuck Scrollbar Fixer
 
+[YouTube Video](https://www.youtube.com/watch?v=qEiP_Ucx6Ds)
+
+Issue: Chrome scrollbar is not working (stuck) when first using mouse scrollwheel/touchpad gestures and immediately after clicking and dragging scrollbar puck
+
+Solution: Install current extension
+
 Installation
 
 1. Clone this repository and inspect the code
